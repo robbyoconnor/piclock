@@ -1,4 +1,4 @@
 piclock
 =======
 
-to run simply do: Python PiClock.py
+to run simply do: python PiClock.py
